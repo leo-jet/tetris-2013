@@ -8,3 +8,10 @@ creation d'un repository sur git en invite de commande
 	-git add nom_element
 	-git commit -m "description du commit"
 
+
+Deposer un repository git sur github
+
+-se connecter au repository github où on aimerait charger le repository git : git remote add origin git@github.com:leo-jet/tetris.git
+	****verifier un remote : git remote -v
+	****changer un remote : git remote set-url origin ...nouvel url...
+-push le repository git : git push -u origin master
