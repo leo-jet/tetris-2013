@@ -1,0 +1,10 @@
+creation d'un repository sur git en invite de commande
+
+-creation du dossier : mkdir
+-ouverture du dossier : cd 
+-initialisation du repository : git init 
+-verification du status : git status 
+-commit des élément du dossier
+	-git add nom_element
+	-git commit -m "description du commit"
+
