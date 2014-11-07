@@ -1,0 +1,14 @@
+C:\Users\emmanuel\documents\visual studio 2010\Projects\tetris_ultimate\tetris_ultimate\bin\Debug\tetris_ultimate.exe
+C:\Users\emmanuel\documents\visual studio 2010\Projects\tetris_ultimate\tetris_ultimate\bin\Debug\tetris_ultimate.pdb
+C:\Users\emmanuel\documents\visual studio 2010\Projects\tetris_ultimate\tetris_ultimate\obj\x86\Debug\tetris_ultimate.Properties.Resources.resources
+C:\Users\emmanuel\documents\visual studio 2010\Projects\tetris_ultimate\tetris_ultimate\obj\x86\Debug\tetris_ultimate.csproj.GenerateResource.Cache
+C:\Users\emmanuel\documents\visual studio 2010\Projects\tetris_ultimate\tetris_ultimate\obj\x86\Debug\tetris_ultimate.exe
+C:\Users\emmanuel\documents\visual studio 2010\Projects\tetris_ultimate\tetris_ultimate\obj\x86\Debug\tetris_ultimate.pdb
+C:\Users\emmanuel\documents\visual studio 2010\Projects\tetris_ultimate\tetris_ultimate\obj\x86\Debug\tetris_ultimate.csprojResolveAssemblyReference.cache
+C:\Users\emmanuel\documents\visual studio 2010\Projects\tetris_ultimate\tetris_ultimate\bin\Debug\Interop.WMPLib.dll
+C:\Users\emmanuel\documents\visual studio 2010\Projects\tetris_ultimate\tetris_ultimate\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\emmanuel\documents\visual studio 2010\Projects\tetris_ultimate\tetris_ultimate\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\emmanuel\documents\visual studio 2010\Projects\tetris_ultimate\tetris_ultimate\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\emmanuel\documents\visual studio 2010\Projects\tetris_ultimate\tetris_ultimate\obj\x86\Debug\tetris_ultimate.csproj.ResolveComReference.cache
+C:\Users\emmanuel\Documents\Visual Studio 2010\Projects\tetris_ultimate\tetris_ultimate\obj\x86\Debug\tetris_ultimate.FenetrePrincipale.resources
+C:\Users\emmanuel\Documents\Visual Studio 2010\Projects\tetris_ultimate\tetris_ultimate\obj\x86\Debug\tetris_ultimate.FenetreDemarrePartie.resources
